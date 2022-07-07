@@ -1,0 +1,16 @@
+[
+{"type":"header","version":"5.1.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"homeassignment"},
+{"type":"table","name":"bill","database":"homeassignment","data":
+[
+{"id":"1","from_date":"26-11-2021","to_date":"26-12-2021","total_usage":"100"},
+{"id":"2","from_date":"1-11-2021","to_date":"1-12-2021","total_usage":"400"}
+]
+}
+,{"type":"table","name":"customer_details","database":"homeassignment","data":
+[
+{"id":"1","name":"Ashutosh Akkole","address":"flat no 304,mahadev plaza apartment,ring road,ichalkaranji 416115","phone":"2147483647"},
+{"id":"2","name":"Akshay Akkole","address":"old chundur road,durgamata mandir,front of gora karkhana,ichalkaranji 416115","phone":"2147483647"}
+]
+}
+]
